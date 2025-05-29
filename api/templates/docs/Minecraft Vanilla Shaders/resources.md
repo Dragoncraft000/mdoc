@@ -1,4 +1,4 @@
-# Minecraft Vanilla Shader Resources
+# Resources
 
 [The Book of Shaders](https://thebookofshaders.com/)
 
